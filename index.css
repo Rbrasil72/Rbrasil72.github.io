@@ -93,7 +93,7 @@ p
 	margin: 0 auto;
 }
 
-p > a > img
+p > img
 {
 	transition: transform .5s ease; /* Animation */
 	margin-bottom: 1.5em;
